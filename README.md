@@ -13,7 +13,9 @@ Este projeto consiste em um site simples desenvolvido utilizando apenas HTML, CS
 
 Para rodar o site, é necessário ter um navegador web moderno (Google Chrome, Firefox, Edge, etc). Não é necessário instalar nenhum software adicional.
 
+## 🔗 Acesse o Projeto
 
+[🔍 Clique aqui para ver online](https://brrn91.github.io/site-simples-ev-bradesco/)
 
 ## Como usar
 
