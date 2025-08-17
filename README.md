@@ -13,6 +13,8 @@ Este projeto consiste em um site simples desenvolvido utilizando apenas HTML, CS
 
 Para rodar o site, é necessário ter um navegador web moderno (Google Chrome, Firefox, Edge, etc). Não é necessário instalar nenhum software adicional.
 
+
+
 ## Como usar
 
 1. Clone este repositório ou baixe os arquivos.
