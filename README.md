@@ -16,12 +16,13 @@ O objetivo foi treinar a construção de páginas estáticas utilizando **HTML, 
 ## 🛠️ Tecnologias Utilizadas
 - **HTML5**
 - **CSS3**
+- **JavaScript**
 - Estruturação semântica e boas práticas de organização
 
 ---
 
 ## ⚙️ Funcionalidades
-- ✅ Estrutura de página institucional  
+- ✅ Estrutura de página institucional
 - ✅ Elementos estilizados com CSS  
 - ✅ Layout simples e responsivo  
 - 🚀 Hospedado facilmente no GitHub Pages  
